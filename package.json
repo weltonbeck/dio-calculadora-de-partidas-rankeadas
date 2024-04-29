@@ -1,0 +1,14 @@
+{
+  "name": "dio-desafio-calculadora-de-partidas-rankeadas",
+  "version": "1.0.0",
+  "description": "Calculadora de Partidas Rankeadas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
